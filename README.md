@@ -1,2 +1,2 @@
 # odin-recipes
-The current project is to make a recipe-based website using purely HTML. So far, pulling from both the Odin Project alongside other miscellaneous sources, I've got a fairly thorough understand of HTML and should be more than prepared to make this basic website!
+The current project is to make a recipe-based website using purely HTML. So far, pulling from both the Odin Project alongside other miscellaneous sources, I've got a fairly thorough understanding of HTML and should be more than prepared to make this basic website!
